@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/AYAELJEMLI">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:00C8FF&height=220&section=header&text=Aya%20El%20Jemli&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20SOC%20%7C%20DFIR%20%7C%20Application%20Security&descSize=22&descAlignY=65" width="100%" alt="Aya El Jemli"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:D63384&height=220&section=header&text=Aya%20El%20Jemli&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20SOC%20%7C%20DFIR%20%7C%20Application%20Security&descSize=22&descAlignY=65" width="100%" alt="Aya El Jemli"/>
   </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+Building+Blue+Team+Labs;%3E+Learning+Offensive+%26+Defensive+Security;%3E+Future+SOC+Analyst+%26+DFIR+Engineer;%3E+Cybersecurity+Engineering+Student+at+EMSI" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=F8BBD0&center=true&vCenter=true&width=900&lines=%3E+Building+Blue+Team+Labs;%3E+Learning+Offensive+%26+Defensive+Security;%3E+Future+SOC+Analyst+%26+DFIR+Engineer;%3E+Cybersecurity+Engineering+Student+at+EMSI" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </a>
 
 <a href="mailto:ayaeljemli5@gmail.com">
-<img src="https://img.shields.io/badge/Email-00C8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-D63384?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/AYAELJEMLI">
