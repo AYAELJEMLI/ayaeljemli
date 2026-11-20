@@ -1,35 +1,21 @@
 <p align="center">
   <a href="https://github.com/AYAELJEMLI">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:D63384&height=220&section=header&text=Aya%20El%20Jemli&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20SOC%20%7C%20DFIR%20%7C%20Application%20Security&descSize=22&descAlignY=65" width="100%" alt="Aya El Jemli"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7A1F4D,100:FF4D9D&height=240&section=header&text=Aya%20El%20Jemli&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20SOC%20%7C%20DFIR%20%7C%20Application%20Security&descSize=20&descAlignY=60" width="100%" alt="Aya El Jemli"/>
   </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=F8BBD0&center=true&vCenter=true&width=900&lines=%3E+Building+Blue+Team+Labs;%3E+Learning+Offensive+%26+Defensive+Security;%3E+Future+SOC+Analyst+%26+DFIR+Engineer;%3E+Cybersecurity+Engineering+Student+at+EMSI" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4D9D&background=0D111700&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+aya;%3E+Building+Blue+Team+Labs;%3E+Learning+Offensive+%26+Defensive+Security;%3E+Future+SOC+Analyst+%26+DFIR+Engineer;%3E+Securing+LLMs+%26+AI+systems" width="100%"/>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aya-el-jemli-30700029b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
-</a>
-
-<a href="mailto:ayaeljemli5@gmail.com">
-<img src="https://img.shields.io/badge/Email-D63384?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/AYAELJEMLI">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aya-el-jemli-30700029b"><img src="https://img.shields.io/badge/LinkedIn-D63384?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:ayaeljemli5@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://github.com/AYAELJEMLI"><img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/></a>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/5th_Year_Cybersecurity_Engineer-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/3_Cybersecurity_Internships-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Blue_Team_Enthusiast-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
+  <img src="https://img.shields.io/badge/5th_Year_Cybersecurity_Engineer-D63384?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/3_Cybersecurity_Internships-D63384?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Blue_Team_Enthusiast-D63384?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
@@ -38,63 +24,33 @@
 
 ```python
 aya = {
-
     "name": "Aya El Jemli",
-
     "role": "Cybersecurity Engineering Student",
-
     "university": "EMSI Casablanca",
-
     "year": "5th Year Engineering",
-
     "location": "Casablanca, Morocco",
-
     "currently": "Looking for a Final-Year Internship (PFE)",
-
     "focus": [
-
         "SOC Engineering",
-
         "Digital Forensics",
-
         "Incident Response",
-
         "Application Security",
-
         "LLM Security"
-
     ],
-
     "learning": [
-
         "Cloud Security",
-
         "Threat Detection",
-
         "Threat Hunting",
-
         "Malware Analysis",
-
         "AI Security"
-
     ],
-
-    "languages": [
-
-        "Arabic",
-
-        "French",
-
-        "English"
-
-    ]
+    "languages": ["Arabic", "French", "English"]
 }
 ```
 
 ---
 
 <details>
-
 <summary><b>🌱 My Journey</b></summary>
 
 <br>
@@ -126,18 +82,13 @@ aya = {
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🛡️ Open Source SOC
-
 **Wazuh + Nagios**
 
 Designed and deployed a complete Security Operations Center using Wazuh SIEM and Nagios monitoring across six virtual machines.
-
-Features:
 
 - MITRE ATT&CK Mapping
 - Active Response
@@ -145,53 +96,25 @@ Features:
 - Centralized Dashboards
 - Multi-VM Infrastructure
 
-**Tech**
-
-`Wazuh`
-
-`Nagios`
-
-`MITRE ATT&CK`
-
-`Kali Linux`
-
-`VirtualBox`
-
-`Linux`
+`Wazuh` `Nagios` `MITRE ATT&CK` `Kali Linux` `VirtualBox` `Linux`
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 🔍 Context-Aware IDS
 
 Developed an intrusion detection laboratory using Wazuh and Metasploit while evaluating detection accuracy through MITRE ATT&CK mapping.
 
-**Tech**
-
-`Python`
-
-`Wazuh`
-
-`Metasploit`
-
-`MITRE ATT&CK`
-
-`Linux`
+`Python` `Wazuh` `Metasploit` `MITRE ATT&CK` `Linux`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🤖 LLM Security Lab
 
 Built a Red Team / Blue Team laboratory for Large Language Models focusing on OWASP Top 10 for LLM Applications.
-
-Topics include:
 
 - Prompt Injection
 - Information Disclosure
@@ -199,176 +122,90 @@ Topics include:
 - Prompt Leakage
 - Defensive Techniques
 
-**Tech**
-
-`Python`
-
-`OWASP LLM`
-
-`AI Security`
-
-`Prompt Engineering`
+`Python` `OWASP LLM` `AI Security` `Prompt Engineering`
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 🧪 Digital Forensics Lab
 
 Hands-on DFIR laboratory dedicated to memory analysis, disk acquisition, timeline reconstruction, and incident reporting.
 
-**Tech**
-
-`Autopsy`
-
-`Volatility`
-
-`Linux`
-
-`Windows`
+`Autopsy` `Volatility` `Linux` `Windows`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## ⛓️ Blockchain E-Voting Platform
 
 Developed a decentralized electronic voting platform using blockchain technologies.
 
-Features:
-
 - Smart contract development
 - Secure voting process
 - Blockchain transaction management
 
-**Tech**
-
-`Ethereum`
-
-`Solidity`
-
-`Ganache`
-
-`MetaMask`
+`Ethereum` `Solidity` `Ganache` `MetaMask`
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 📊 Vulnerability Analysis Dashboard
 
 Created a vulnerability visualization dashboard using security data.
 
-Features:
-
 - More than 5,000 vulnerability records
 - Risk analysis
 - Data visualization
 - Security reporting
 
-**Tech**
-
-`Python`
-
-`Power BI`
-
-`Data Analysis`
+`Python` `Power BI` `Data Analysis`
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
 # 🛠️ Technical Skills
 
-## 🔐 Cybersecurity
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,python&theme=dark" />
-
+  <img src="https://img.shields.io/badge/Linux-D63384?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Kali-D63384?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Docker-D63384?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Git-D63384?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Python-D63384?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Java-D63384?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-D63384?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Solidity-D63384?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/SQL-D63384?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
 </p>
 
-- SOC Operations
-- SIEM Administration
-- Incident Response
-- Digital Forensics
-- Vulnerability Assessment
-- Penetration Testing
-- Threat Detection
-- Security Monitoring
+## 🔐 Cybersecurity
 
----
+- SOC Operations · SIEM Administration · Incident Response · Digital Forensics
+- Vulnerability Assessment · Penetration Testing · Threat Detection · Security Monitoring
 
 ## 🛰️ Security Tools
 
 ```
-Wazuh
-Nagios
-Burp Suite
-Metasploit
-Nmap
-Wireshark
-SQLMap
-OWASP ZAP
-Nessus
-Kali Linux
-Volatility
-Autopsy
+Wazuh · Nagios · Burp Suite · Metasploit · Nmap · Wireshark
+SQLMap · OWASP ZAP · Nessus · Kali Linux · Volatility · Autopsy
 ```
-
----
 
 ## 📚 Frameworks & Standards
 
 ```
-MITRE ATT&CK
-OWASP Top 10
-OWASP Top 10 LLM Applications
-NIST Cybersecurity Framework
-ISO 27001
-DevSecOps
+MITRE ATT&CK · OWASP Top 10 · OWASP Top 10 LLM Applications
+NIST Cybersecurity Framework · ISO 27001 · DevSecOps
 ```
-
----
-
-## 💻 Programming & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,postgres,solidity&theme=dark" />
-
-</p>
-
-```
-Python
-Java
-JavaFX
-JavaScript
-SQL
-HTML/CSS
-Solidity
-```
-
----
 
 ## ☁️ Systems & Infrastructure
 
 ```
-Linux / Ubuntu
-Windows Server
-VMware Workstation
-VirtualBox
-AWS Cloud Fundamentals
-Network Security
-VPN Technologies
+Linux / Ubuntu · Windows Server · VMware Workstation · VirtualBox
+AWS Cloud Fundamentals · Network Security · VPN Technologies
 ```
 
 ---
@@ -376,20 +213,11 @@ VPN Technologies
 # 🎓 Certifications
 
 ```
-Cisco
-→ Introduction to Cybersecurity
-
-HarvardX
-→ CS50 Cybersecurity
-
-Cybersup
-→ KASBAH Cyber Crisis Exercise
-
-University of Michigan
-→ Python Programming
-
-Johns Hopkins University
-→ Technical Certifications
+Cisco                      → Introduction to Cybersecurity
+HarvardX                   → CS50 Cybersecurity
+Cybersup                   → KASBAH Cyber Crisis Exercise
+University of Michigan     → Python Programming
+Johns Hopkins University   → Technical Certifications
 ```
 
 ---
@@ -397,24 +225,16 @@ Johns Hopkins University
 # 🧪 Security Topics I Explore
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/SOC-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/DFIR-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Threat_Hunting-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/AI_Security-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Application_Security-00C8FF?style=for-the-badge&labelColor=0D1117"/>
-
+  <img src="https://img.shields.io/badge/SOC-D63384?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/DFIR-FF4D9D?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Threat_Hunting-D63384?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AI_Security-FF4D9D?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Application_Security-D63384?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
 
 # 📂 GitHub Projects
-
-Here are some of my repositories:
 
 | Repository | Description |
 |------------|-------------|
@@ -430,83 +250,20 @@ Here are some of my repositories:
 
 ```python
 goals = {
-
     "2026": [
-
         "Complete Cybersecurity Engineering Degree",
-
         "Build advanced SOC capabilities",
-
         "Improve DFIR skills",
-
         "Master Cloud Security",
-
         "Explore AI Security"
-
     ],
-
     "future": [
-
         "Become a Cybersecurity Expert",
-
         "Work as a Security Engineer",
-
         "Contribute to the cybersecurity community"
-
     ]
-
 }
 ```
-
----
-
-⬇️ **END OF PART 2/4**
-
-Next part will contain:
-- GitHub statistics cards
-- contribution section
-- contact section
-- final footer animation
-
-Continue with **PART 3/4**.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AYAELJEMLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAELJEMLI&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAELJEMLI&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Cybersecurity Interests
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Blue_Team-00FF9C?style=for-the-badge&logo=shield&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SOC_Engineering-00C8FF?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Digital_Forensics-7C3AED?style=for-the-badge&logo=target&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI_Security-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
 
 ---
 
@@ -514,100 +271,69 @@ Continue with **PART 3/4**.
 
 ```python
 learning = [
-
     "Advanced SIEM Detection Engineering",
-
     "Threat Hunting Techniques",
-
     "Cloud Security (AWS)",
-
     "Security Automation with Python",
-
     "LLM Application Security",
-
     "Malware Analysis Fundamentals"
-
 ]
 ```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AYAELJEMLI&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=FF4D9D&text_color=F8BBD0&icon_color=D63384&border_color=D63384" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAELJEMLI&layout=compact&bg_color=0D1117&title_color=FF4D9D&text_color=F8BBD0&border_color=D63384" height="180"/>
+</p>
+
+# 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AYAELJEMLI&background=0D1117&border=D63384&ring=FF4D9D&fire=FF4D9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=D63384"/>
+</p>
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAELJEMLI&bg_color=0D1117&color=F8BBD0&line=FF4D9D&point=FFFFFF&area=true&area_color=D63384&hide_border=true" width="100%"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYAELJEMLI/AYAELJEMLI/output/github-snake-dark.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/AYAELJEMLI/AYAELJEMLI/output/github-snake-dark.svg"/>
+  </picture>
+</p>
 
 ---
 
 # 🤝 Let's Connect
 
 <p align="center">
-
-I'm always interested in:
-
-<br>
-
-🔹 Cybersecurity projects  
-<br>
-🔹 Blue Team challenges  
-<br>
-🔹 Security research  
-<br>
-🔹 Open-source collaboration  
-
+  I'm always interested in:<br><br>
+  🔹 Cybersecurity projects<br>
+  🔹 Blue Team challenges<br>
+  🔹 Security research<br>
+  🔹 Open-source collaboration
 </p>
 
 <p align="center">
-
-<a href="mailto:ayaeljemli5@gmail.com">
-
-<img src="https://img.shields.io/badge/Email_Me-00C8FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://www.linkedin.com/in/aya-el-jemli-30700029b">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/AYAELJEMLI">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
+  <a href="mailto:ayaeljemli5@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF4D9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://www.linkedin.com/in/aya-el-jemli-30700029b"><img src="https://img.shields.io/badge/LinkedIn-D63384?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://github.com/AYAELJEMLI"><img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/></a>
 </p>
 
----
-
-# 💬 Quote
+<p align="center"><i>"Security is not a product, but a continuous process."</i></p>
 
 <p align="center">
-
-<i>
-"Security is not a product, but a continuous process."
-</i>
-
+  <img src="https://komarev.com/ghpvc/?username=AYAELJEMLI&color=D63384&style=for-the-badge&labelColor=0D1117"/>
 </p>
 
----
-
-# 🧬 Profile Visitors
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AYAELJEMLI&color=00C8FF&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C8FF,100:0D1117&height=100&section=footer&text=Keep%20Learning.%20Keep%20Securing.&fontSize=32&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D9D,50:7A1F4D,100:0D1117&height=120&section=footer&text=Keep%20Learning.%20Keep%20Securing.&fontSize=30&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 </p>
